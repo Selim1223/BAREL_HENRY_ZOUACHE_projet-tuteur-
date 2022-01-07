@@ -15,8 +15,8 @@ différentes taches effectuées :
 <br />_système de connexion
 <br />_Ajout option Role_User ou bien Role_Admin dans modifier utilisateur
 <br />_Ajout choix entre unequestion à 1 réponse ou 4 réponses dans modifier la question
-<br />_Choisir une question par niveau 
-<br />_Afficher/gestion des question et réponses
+<br />_Choisir une question par niveau (socket.io)
+<br />_Afficher/gestion des question et réponses (socket.io)
 <br />Selim : _Système d'inscription et de connexion
 <br />_Partie graphique du projet 
 <br />_Afficher les règles du jeu 
