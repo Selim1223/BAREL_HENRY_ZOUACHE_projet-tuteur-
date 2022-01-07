@@ -8,7 +8,7 @@ Bilan : Projet PHP entièrement fonctionnel, projet tuteuré incomplet, ils nous
 différentes taches effectuées : 
 <br />_Antoine : 
 <br />_Julian : 
-_Selim :  
+<br />_Selim :  
 
 
 manuel d'installation :
