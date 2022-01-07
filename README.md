@@ -6,18 +6,18 @@ Technologies utilisées : HTML/CSS, PHP, javascript et le web socket socket.io
 Bilan : Projet PHP entièrement fonctionnel, projet tuteuré incomplet, ils nous manquent la gestion de l'affichage pour le host (tout le monde peut répondre aux questions, sans distinctions entre les joueurs),il y a un manque de sécurité (les informations s'affichent dans l'url).
 
 différentes taches effectuées : 
-<br />_Antoine : _Page admin (Nombre d'utlisateur et Nombre de question)
+<br />Antoine : _Page admin (Nombre d'utlisateur et Nombre de question)
 <br />_Gestion des questions/réponses (Supprimer/modifier/afficher)
 <br />Gestion des Utilisateurs (Supprimer/modifier/afficher)
 <br />_Envoie de mail (par sendmail)
 <br />_Gestion des utilisateurs (Websocket)
-<br />_Julian : _Creation fichier sql
+<br />Julian : _Creation fichier sql
 <br />_système de connexion
 <br />_Ajout option Role_User ou bien Role_Admin dans modifier utilisateur
 <br />_Ajout choix entre unequestion à 1 réponse ou 4 réponses dans modifier la question
 <br />_Choisir une question par niveau 
 <br />_Afficher/gestion des question et réponses
-<br />_Selim : _Système d'inscription et de connexion
+<br />Selim : _Système d'inscription et de connexion
 <br />_Partie graphique du projet 
 <br />_Afficher les règles du jeu 
 <br />_Système de déconnexion 
