@@ -3,7 +3,7 @@
 Technologies utilisées : HTML/CSS, PHP, javascript, le web socket socket.io et le CLI nodemon
 
  	
-Bilan : Projet PHP entièrement fonctionnel, projet tuteuré incomplet, ils nous manquent la gestion de l'affichage pour le host (tout le monde peut répondre aux questions, sans distinctions entre les joueurs),il y a un manque de sécurité (les informations s'affichent dans l'url).
+Bilan : Projet PHP entièrement fonctionnel, projet tuteuré incomplet, ils nous manquent la gestion de l'affichage pour le host,il y a un manque de sécurité (les informations s'affichent dans l'url).
 
 différentes taches effectuées : 
 <br />Antoine : _Page admin (Nombre d'utlisateur et Nombre de question)
