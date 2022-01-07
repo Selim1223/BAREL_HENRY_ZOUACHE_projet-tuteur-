@@ -18,4 +18,4 @@ Si le mail qui reçoit l'url est un gmail, il faudra activé l'accès moins séc
 information de connexion pour le compte admin :
 <br />nom d'utilisateur : admin 
 <br />mot de passe : admin 
-nom du virtualhost : projet 
+<br />nom du virtualhost : projet 
