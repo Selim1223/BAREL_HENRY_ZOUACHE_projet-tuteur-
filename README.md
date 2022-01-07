@@ -24,7 +24,6 @@ différentes taches effectuées :
 <br />_Affichage grille de jeu(en fonction du nombre de joueur) 
 <br />_gestion des couleurs
 
-
 manuel d'installation : le sendmail est déjà réglé pour l'envoie de mail par une adresse gmail, pour modifier l'envoie de l'adresse(si l'on envoie par adresse hotmail ou outlook par exemple, il faut modifier la valeur de smtp_server, pour changer l'adresse mail qui envoie les urls, il faut modifier auth_username et auth_password. 
 <br />Sur le serveur wamp, dans bin\apache\apache2.4.51\bin dans le fichier php.ini il faut mettre en commentaire à partir de [mail function] jusqu'à sendmail_path où il faut mettre : "\"C:\wamp64\sendmail\sendmail.exe\" -t"(on vous transmet le fichier php.ini à la racine du projet si besoin).
 Si le mail qui reçoit l'url est un gmail, il faudra activé l'accès moins sécurisé des applications qui se trouve dans sécurité dans paramètres. 
@@ -33,3 +32,8 @@ information de connexion pour le compte admin :
 <br />nom d'utilisateur : admin 
 <br />mot de passe : admin 
 <br />nom du virtualhost : projet 
+
+<br />Pour démarrer le serveur, il faut installer nodemon avec la commande CLI -> npm install nodemon -g
+Puis ensuite il faut lancer la commande nodemon index.js pour démarrer le serveur.
+
+
