@@ -36,4 +36,4 @@ information de connexion pour le compte admin :
 <br />Pour démarrer le serveur, il faut installer nodemon avec la commande CLI -> npm install nodemon -g
 Puis ensuite il faut lancer la commande nodemon index.js pour démarrer le serveur.
 
-
+<br />pour lancer une partie,veuiller dans un premier temps envoyer les mails aux joueurs à partir de l'admin, puis une fois que les joueurs ont reçus leurs mails, l'admin doit se connecter en premier avec le bouton "lancer une partie". 
